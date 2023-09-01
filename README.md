@@ -1,19 +1,13 @@
-# vue-pay
+# 第一次登录请先用管理员默认密码登录
+# 管理员账号：admin 管理员密码：approve123456.
 
-## Project setup
+## 
 ```
+下载依赖
 npm install
 ```
-
-### Compiles and hot-reloads for development
+###运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
